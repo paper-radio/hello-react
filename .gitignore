@@ -9,6 +9,9 @@
 # production
 /build
 
+# documentation
+/doc
+
 # misc
 .DS_Store
 .env.local
@@ -22,3 +25,4 @@ yarn-error.log*
 
 # IDEs
 /.vscode
+

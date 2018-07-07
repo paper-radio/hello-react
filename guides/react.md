@@ -12,10 +12,16 @@ next gen javascript
 
 use yarn
 
-Jest for testing
+# Jest for testing
 
-Links
+---
 
-JSX is NOT HTML
+## Links
+
+JSX is **not** HTML
 
 className Vs. class
+
+Function Components Vs. Class Components
+
+class components can have state... function components can **not**.

@@ -1,3 +1,4 @@
 # TODO
 
-Hyper and Meh movement keys
+-   Hyper and Meh movement keys
+-   jsdoc setup

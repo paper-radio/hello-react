@@ -4,3 +4,5 @@
 -   jsdoc setup
 -   Setup debug
 -   Find AceJump for VSCode
+-   [ ] Guides
+-   [ ] Keymap For side bar in vscode

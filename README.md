@@ -2,4 +2,4 @@
 
 ## Guides
 
--   [React](hello-react/guides/react.md)
+-   [React](guides/react.md)
